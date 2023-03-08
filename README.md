@@ -1,2 +1,2 @@
-# qrcode
+# barcode
 Created with CodeSandbox
